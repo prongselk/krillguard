@@ -6,6 +6,6 @@ This is the most recent version of a database comprising all the krill samples f
 
 We also have an app visualising the collection scope, you can access it [here](https://krillguard.streamlit.app/#krill-station-data-discovery-expeditions)
 
-[excel_to_csv.ipynb](https://github.com/prongselk/krillguard/blob/main/KrillGUARD_public.xlsx)
+[excel_to_csv_public.ipynb](https://github.com/prongselk/krillguard/blob/main/excel_to_csv_public.ipynb)
 
 This is a Jupyter notebook aimed to help with exctracting the sample information from the Excel workbook. Run it in Google Colab to get a neat .csv file that you can analyse. 
