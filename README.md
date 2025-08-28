@@ -10,5 +10,13 @@ We also have an app visualising the collection scope, you can access it [here](h
 
 This is a Jupyter notebook aimed to help with extracting the sample information from the Excel workbook. Run it in Google Colab to get a neat .csv file that you can analyse. 
 
+[Discovery_station_guide.xlsx](https://github.com/prongselk/krillguard/blob/main/Discovery_station_guide.xlsx)
+
+This is an Excel workbook that can be used as a template for auto-filling Discovery, William Scoresby, William Hervig and Challenger station data. Consult the workbook's readme for more information.
+
+[geodesic_calculations.ipynb](https://github.com/prongselk/krillguard/blob/main/geodesic_calculations.ipynb)
+
+This code can be used to transform station localities from text descriptions to coordinates.
+
 
 <img src="images/logo.png" alt="krillguard" width="300"/>
