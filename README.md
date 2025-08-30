@@ -12,7 +12,7 @@ This is a Jupyter notebook aimed to help with extracting the sample information 
 
 [Discovery_station_guide.xlsx](https://github.com/prongselk/krillguard/blob/main/Discovery_station_guide.xlsx)
 
-This is an Excel workbook that can be used as a template for auto-filling Discovery, William Scoresby, William Hervig and Challenger station data. Consult the workbook's readme for more information.
+This is an Excel workbook that can be used as a template for auto-filling Discovery, William Scoresby, Walter Hervig and Challenger station data. Consult the workbook's readme for more information.
 
 [geodesic_calculations.ipynb](https://github.com/prongselk/krillguard/blob/main/geodesic_calculations.ipynb)
 
